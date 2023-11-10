@@ -1,0 +1,29 @@
+body{font-size:16px; font-family: 'Barlow', sans-serif;}
+
+h1 {font-family: 'Lobster'; color: red}
+
+i{color:green}
+
+h2,h3{color: green; text-transform: capitalize;}
+
+h2,h3{text-align: center;}
+
+h3{font-size: 1em;}
+
+header, section{  margin: 2em 0;}
+
+header, .top, .menu, .pizzas{text-align: center;}
+
+.top img{padding: 0 0 4em 0;}
+
+.menu img{margin: 2em 0;}
+
+.about{background: rgb(241, 237, 237); padding: 1em;}
+
+img{margin:0 auto; display: block;}
+
+.pizzas .col-md-3 {margin: 1em 0;} 
+
+.nav-link{color:#EF6536;}
+
+.nav-link:hover{color:#30506E;}
