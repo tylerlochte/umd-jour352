@@ -1,91 +1,37 @@
 
-
-.page1{
-    background-color: #121212;
-    text-align: center; 
-}
-
-.page2{
+header {
     background-color: #121212;
     font-family: "Inconsolata", sans-serif;
     color: #FCFDFE;
-    text-align: center;
+    text-align: center; 
+    padding: 0 0 5% 0;
+}
+header img{
+padding: 0 0 5% 0;
 }
 
-.page3{
+.intro{
     background-color: #FCFDFE;
-    color:#121212;
+    color: #121212;
     text-align: center;
+    
 }
 
-.page4{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page5{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page6{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page7{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page8{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page9{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page10{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page11{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #FCFDFE;
-    text-align: center;
-}
-
-.page12{
+main {
     background-color: #FCFDFE;
-    font-family: 'Courier New', Courier, monospace; 
     color: #121212;
     text-align: center;
 }
 
-.page13{
-    background-color: #FCFDFE;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #121212;
-    text-align: center;
+.results {
+    background-color: #121212;
+    font-family: "Inconsolata", sans-serif;
+    color: #FCFDFE;
+    text-align: center; 
+}
+
+.results video{
+    text-align: right
 }
 
 .page14{
@@ -96,30 +42,9 @@
     text-align: center;
 }
 
-.page15{
-    background-color: #FCFDFE;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #121212;
-    text-align: center;
-}
-
-.page16{
-    background-color: #FCFDFE;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #121212;
-    text-align: center;
-}
-
-.page17{
-    background-color: #FCFDFE;
-    font-family: 'Courier New', Courier, monospace; 
-    color: #121212;
-    text-align: center;
-}
-
 .footer{
     background-color: #FCFDFE;
-    font-family: 'Inconsolata', sans-serif; 
     color: #121212;
     text-align: center;
 }
+
