@@ -1,0 +1,72 @@
+body {
+    color: navy;
+}
+
+header {
+    background-color: navy;
+    text-align: center; 
+}
+
+header h1 {
+    background-color: navy;
+    font-family: "Inconsolata", sans-serif;
+    color: red;
+    text-align: center; 
+    font-size: 200px;
+}
+
+header h3 {
+    background-color: navy;
+    font-family: "Inconsolata", sans-serif;
+    color: white;
+    text-align: center; 
+    font-size: 50px;
+}
+
+header img{
+padding: 0 0 2% 0;
+}
+
+header p {
+    background-color: navy;
+    font-family: "Inconsolata", sans-serif;
+    color: white;
+    text-align: center; 
+    padding: 0 25% 2% 25%;
+    font-size: 50px;
+}
+
+main {
+    background-color: navy;
+    text-align: center;
+}
+
+main p {
+    background-color: navy;
+    font-family: "Inconsolata", sans-serif;
+    color: white;
+    text-align: center; 
+    padding: 0 25% 2% 25%;
+    font-size: 50px;
+}
+
+main img{
+    height: 1000px;
+    width: 2000px;
+    padding: 0 0 2% 0;
+}
+
+main video{
+    height: 1500px;
+    width: 2500px;
+    padding: 0 0 0 0;
+}
+
+main h3 {
+    background-color: navy;
+    font-family: "Inconsolata", sans-serif;
+    color: white;
+    text-align: center; 
+    padding: 0 25% 2% 25%;
+    font-size: 200px;
+}
